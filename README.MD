@@ -1,8 +1,11 @@
 # PERSONAL PROJECT BY MY PRACTICES AND TEST MY SKILLS ON PHP WITH USING THIRD API'S
 ------------------------------------------------------------
-API I USED ON THIS PROJECT 
+API I USED ON THIS PROJECT
+
 FORNECED BY HG BRASIL 
+
 CONVERT USD TO BRL
+
 LINK ACCESS SITE https://hgbrasil.com/
 
 ------------------------------------------------------------
