@@ -1,4 +1,7 @@
 # PERSONAL PROJECT BY MY PRACTICES AND TEST MY SKILLS ON PHP WITH USING THIRD API'S
+
+
+# API INFORMATIONS
 ------------------------------------------------------------
 API I USED ON THIS PROJECT
 
