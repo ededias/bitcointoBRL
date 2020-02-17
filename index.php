@@ -27,7 +27,7 @@ function encodeJson()
 {
   echo json_encode(array(
     "Bitcoin day value" => [
-      "value" => usdToBrl(),
+      "value" => str_replace(",", "", number_format(usdToBrl(), 2)),
     ],
     "developedBy" => [
       "developedBy" => "Edenilson Dias dos Santos",
