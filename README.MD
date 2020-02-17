@@ -10,6 +10,7 @@ LINK ACCESS SITE https://hgbrasil.com/
 
 ------------------------------------------------------------
 FORNECED BY COINGECKO
+
 COTATION DAY BITCOIN VALUE
 
 LINK ACCESS SITE https://www.coingecko.com/en
