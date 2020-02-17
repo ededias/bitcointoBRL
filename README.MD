@@ -1,11 +1,11 @@
 # PERSONAL PROJECT BY MY PRACTICES AND TEST MY SKILLS ON PHP
-
+------------------------------------------------------------
  USING THIRD API'S
  API I USED ON THIS PROJECT
    FORNECED BY HG BRASIL
    CONVERT USD TO BRL
    LINK ACCESS SITE https://hgbrasil.com/
-   ------------------------------------------------
+   ---------------------------------------------------------
    FORNECED BY COINGECKO
    COTATION DAY BITCOIN VALUE
    LINK ACCESS SITE https://www.coingecko.com/en
